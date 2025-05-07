@@ -164,5 +164,5 @@ For significant changes, we will make reasonable efforts to provide a more promi
 If you have questions or comments about this Privacy Policy, please contact us at:
 
 Visiora AI
-[Your Physical Address, if applicable]
+ 
 Email: [visioraaiapp@gmail.com]
